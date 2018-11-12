@@ -1,4 +1,3 @@
-ntt=6 > 8
 
-if ntt True:
-    print('yes')
+x=68
+print('my mamt i  uhu',x)
