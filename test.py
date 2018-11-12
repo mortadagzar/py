@@ -1,4 +1,4 @@
-def set (a,*b):
- print(a,b)
+def set (**b):
+ print(b)
 
-set('iuioo',7,8,9,9,9)
+set(ty=9,iuui=89)
