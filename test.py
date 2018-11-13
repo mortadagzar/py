@@ -1,1 +1,3 @@
-fhandlbje=open('abuc.py','w')
+import os
+path=os.getcwd()
+print(path)
