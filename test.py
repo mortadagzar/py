@@ -6,6 +6,9 @@ class human():
           print ('this is a head')   
 
 human().arm()  
-human().head()        
+human().head()   
+print(type(__doc__))
+print(type('guguh'))  
+
 
        
