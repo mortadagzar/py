@@ -1,10 +1,3 @@
-class mina():
-    '''tguis id mou oh mou '''
-    def name(self):
+rest="mohammed"
 
-
-    
-        print('my name is miran not mohamed')
-print(mina() )  
-
-
+rest.startswith("my")
