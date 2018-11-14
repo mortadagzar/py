@@ -6,3 +6,14 @@ False
 >>> rest.find("m")
 0
 >>> 
+hello
+Traceback (most recent call last):
+  File "<pyshell#3>", line 2, in <module>
+    hello
+NameError: name 'hello' is not defined
+>>> 
+ret="uhuuh"
+>>> 
+print(ret)
+uhuuh
+>>> 
