@@ -1,3 +1,3 @@
 rest="mohammed"
 
-rest.startswith("my")
+unuuuhuhu
