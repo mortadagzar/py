@@ -1,5 +1,0 @@
-f1=open("test","w")
-f1.write("i am mortada")
-f1.close()
-f2=open("test","r")
-print(f2.read())
