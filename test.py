@@ -1,1 +1,3 @@
-gygyyg
+list()
+tuple()
+dict()
