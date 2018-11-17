@@ -1,3 +1,4 @@
-import math
-x=math.cos(78)
-print(x)
+def myname():
+   print("yes my ba nyf")
+
+   
