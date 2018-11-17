@@ -1,4 +1,8 @@
-word=input('أكتب كلمة تريد تشفيرها   : ')
 from hashlib import *
-x=md5(word.encode()).hexdigest()
-print("الكلمة  بعد التشفير هي :",x)
+file=input("enter the file name : ")
+with open(file,mode="r") as f:
+    
+    for line in f:
+        line=line.strip()
+        hashfile=md5(line.encode()).hexdigest()
+        print(hashfile)
